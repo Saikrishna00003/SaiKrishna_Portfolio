@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        Hello! I'm Mr. G. Venkata Sai Krishna, a dynamic individual passionate about technology and sports. Armed with a Bachelor's degree in Computer Science and Engineering from Annamacharya Institute of Technology and Sciences, Rajampet, I've honed my technical prowess to an impressive 8.15 CGPA. Proficient in Java, Python, HTML, CSS, JavaScript, React, Spring Boot, and MySQL, I specialize in crafting robust solutions for diverse challenges.
+        Hello World! I'm Mr. G. Venkata Sai Krishna, a dynamic individual passionate about technology and sports. Armed with a Bachelor's degree in Computer Science and Engineering from Annamacharya Institute of Technology and Sciences, Rajampet, I've honed my technical prowess to an impressive 8.15 CGPA. Proficient in Java, Python, HTML, CSS, JavaScript, React, Spring Boot, and MySQL, I specialize in crafting robust solutions for diverse challenges.
 <br/><br/>
 
 
