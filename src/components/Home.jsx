@@ -15,10 +15,9 @@ const Home = () => {
           I'm a Full Stack Developer
         </h2>
         <p className="text-gray-500 py-4 max-w-md">
-        An enthusiastic engineer with good analytical skills and curiosity to learn.Looking to be part of a
-        team or company that can mentor and groom me into a world classs software developer.
-
-        </p>
+        An enthusiastic B.Tech Computer Science graduate specializing in Java Full Stack, proficient in React. With hands-on experience in building full-stack applications and expertise in real-time static website development, I'm passionate about creating innovative, scalable solutions.
+         Eager to contribute this energy to a dynamic team and make a meaningful impact.   
+         </p>
 
         <div>
         <Link

@@ -14,11 +14,11 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        Hello World! I'm Mr. G. Venkata Sai Krishna, a dynamic individual passionate about technology and sports. Armed with a Bachelor's degree in Computer Science and Engineering from Annamacharya Institute of Technology and Sciences, Rajampet, I've honed my technical prowess to an impressive 8.15 CGPA. Proficient in Java, Python, HTML, CSS, JavaScript, React, Spring Boot, and MySQL, I specialize in crafting robust solutions for diverse challenges.
+        Hello World! I'm Mr. G. Venkata Sai Krishna, a dynamic individual deeply passionate about technology. Armed with a Bachelor's degree in Computer Science and Engineering from Annamacharya Institute of Technology and Sciences, Rajampet, I've honed my technical skills, achieving an impressive 8.15 CGPA.
 <br/><br/>
-
-
-Beyond the digital realm, I've showcased my athletic talent, representing Kadapa district in ball badminton and securing spots in the esteemed All India Inter University Ball Badminton Men Tournament. Selected for the National Means-cum-Merit Scholarship in class 8th under the central government-sponsored scheme in November 2014, I've demonstrated a relentless pursuit of excellence both academically and athletically. Driven by a thirst for knowledge and a passion for innovation, I'm poised to make significant contributions as a full-stack developer.
+Proficient in Java, Python, HTML, CSS, JavaScript, React, Spring Boot, and MySQL, I specialize in crafting robust solutions for diverse challenges. With a relentless pursuit of excellence, both academically and professionally, I am driven by a thirst for knowledge and a passion for innovation.
+<br/><br/>
+I am eager to leverage my skills and expertise as a full-stack developer to contribute meaningfully to cutting-edge projects and drive impactful solutions.
         </p>
       </div>
     </div>
