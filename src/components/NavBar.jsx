@@ -35,7 +35,7 @@ const NavBar = () => {
     
 <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed ">
       <div>
-      <a href="https://www.linkedin.com/in/sai-krishna-8050ba18b" target='_blank' rel="noreferrer" >  <h1 className="text-3xl font-logo ml-3">SAI KRISHNA</h1></a>
+      <a href="https://www.linkedin.com/in/gvsaikrishna" target='_blank' rel="noreferrer" >  <h1 className="text-3xl font-logo ml-3">SAI KRISHNA</h1></a>
       </div>
 
       <ul className="hidden md:flex">

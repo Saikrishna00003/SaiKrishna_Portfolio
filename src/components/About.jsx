@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-5">
         Hello World! I'm Mr. G. Venkata Sai Krishna, a dynamic individual deeply passionate about technology. Armed with a Bachelor's degree in Computer Science and Engineering from Annamacharya Institute of Technology and Sciences, Rajampet, I've honed my technical skills, achieving an impressive 8.15 CGPA.
 <br/><br/>
 Proficient in Java, Python, HTML, CSS, JavaScript, React, Spring Boot, and MySQL, I specialize in crafting robust solutions for diverse challenges. With a relentless pursuit of excellence, both academically and professionally, I am driven by a thirst for knowledge and a passion for innovation.
