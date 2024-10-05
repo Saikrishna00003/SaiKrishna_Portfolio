@@ -6,7 +6,7 @@ I am a dedicated full stack developer with a passion for building dynamic and us
 
 https://venkata-sai-krishna-portfolio.netlify.app/
 
-#### Description:
+## Description:
 Developed a visually appealing portfolio website featuring a showcase of projects, skills, and 
 professional work, utilizing creative design and animations to enhance user engagement.
 
