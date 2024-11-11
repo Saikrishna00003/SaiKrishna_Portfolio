@@ -13,4 +13,4 @@ professional work, utilizing creative design and animations to enhance user enga
 
 ## Feedback
 
-If you have any feedback, please reach out to us at gvsaikrishna003@gmail.com
+If you have any feedback, please reach out to me at gvsaikrishna003@gmail.com
