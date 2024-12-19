@@ -6,7 +6,7 @@ const Portfolio = () => {
     {
       id: 1,
       src: SeminarManagementsystem,
-      href:"https://github.com/Saikrishna00003/SeminarManagementSystem",
+      href:"https://github.com/Saikrishna00003/SEMINAR-MANAGEMENT-SYSTEM",
     },
     
   ];
