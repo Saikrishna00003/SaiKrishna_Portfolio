@@ -5,7 +5,7 @@ import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import mysql from "../assets/mysql.svg";
 import java from "../assets/java.png";
-import spring from "../assets/spring.svg";
+import springBoot from "../assets/spring.svg";
 import tailwind from "../assets/tailwind.png";
 
 const Skills = () => {
@@ -54,8 +54,8 @@ const Skills = () => {
         },
         {
           id: 8,
-          src: spring,
-          title: "Spring",
+          src: springBoot,
+          title: "Spring Boot",
           style: "shadow-green-300",
         },
       ];
