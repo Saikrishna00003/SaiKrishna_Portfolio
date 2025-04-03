@@ -5,7 +5,7 @@ import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import mysql from "../assets/mysql.svg";
 import java from "../assets/java.png";
-import springBoot from "../assets/spring.svg";
+import springBoot from "../assets/springboot-image.png";
 import tailwind from "../assets/tailwind.png";
 
 const Skills = () => {
@@ -57,6 +57,7 @@ const Skills = () => {
           src: springBoot,
           title: "Spring Boot",
           style: "shadow-green-300",
+          imgClass: "w-28 h-20", 
         },
       ];
     
@@ -74,12 +75,12 @@ const Skills = () => {
             </div>
     
             <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-8 text-center py-8 px-12 sm:px-0">
-              {techs.map(({ id, src, title, style }) => (
+              {techs.map(({ id, src, title, style, imgClass }) => (
                 <div
                   key={id}
                   className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style}`}
                 >
-                  <img src={src} alt="" className="w-20 mx-auto" />
+                  <img src={src} alt="" className={`w-20 mx-auto ${imgClass ? imgClass : ""}`} />
                   <p className="mt-4">{title}</p>
                 </div>
               ))}
@@ -89,4 +90,4 @@ const Skills = () => {
       );
 }
 
-export default Skills
+export default Skills;
