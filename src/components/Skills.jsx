@@ -57,7 +57,7 @@ const Skills = () => {
           src: springBoot,
           title: "Spring Boot",
           style: "shadow-green-300",
-          imgClass: "w-28 h-20", 
+          imgClass: "w-32 h-20", 
         },
       ];
     
